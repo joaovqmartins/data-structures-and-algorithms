@@ -9,7 +9,7 @@ Todo o código é escrito em **Python 3** e organizado em notebooks Jupyter (`.i
 | # | Disciplina | Pasta | Atividades |
 |---|---|---|---|
 | 1 | Velocidade e Qualidade com Estruturas de Dados e Algoritmos | [`01-velocidade-e-qualidade`](01-velocidade-e-qualidade) | TP1, TP2, TP3 e Assessment |
-| 2 | Estruturas de Dados e Algoritmos Avançados | [`02-algoritmos-avancados`](02-algoritmos-avancados) | TP1 |
+| 2 | Estruturas de Dados e Algoritmos Avançados | [`02-algoritmos-avancados`](02-algoritmos-avancados) | TP1 e TP2 |
 
 Cada pasta tem o seu próprio `README.md`, com a descrição de cada notebook.
 
@@ -26,7 +26,8 @@ data-structures-and-algorithms/
 │   └── AT_Assessment.ipynb
 └── 02-algoritmos-avancados/
     ├── README.md
-    └── TP1_Teste_de_Performance.ipynb
+    ├── TP1_Teste_de_Performance.ipynb
+    └── TP2_Teste_de_Performance.ipynb
 ```
 
 ## Principais conceitos abordados
@@ -37,6 +38,8 @@ data-structures-and-algorithms/
 - Árvores binárias de busca (inserção, busca, deleção e travessias)
 - Recursão, backtracking e memoização
 - Heaps binárias e filas de prioridade
+- Tries (árvores de prefixos): autocomplete e autocorrect
+- Grafos: lista e matriz de adjacência
 - Algoritmos de ordenação e seleção (Bubble, Selection, Insertion, QuickSort e QuickSelect)
 
 ## Como executar
